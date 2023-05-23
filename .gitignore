@@ -1,0 +1,7 @@
+*.shx
+*.zip
+*.prj
+*.dbf
+*.p
+*.shp
+api.py
