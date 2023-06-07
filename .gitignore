@@ -7,3 +7,6 @@
 *.xml
 *.txt
 api.py
+./Data/*
+/Data/*
+/Data
